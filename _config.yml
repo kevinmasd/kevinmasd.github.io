@@ -1,0 +1,9 @@
+title: Another Civic Website
+description: >-
+  Exploration of Peninsula and South Bay
+domain: kevinmasd.github.io
+url: https://kevinmasd.github.io
+
+theme: minima
+plugins:
+  - jekyll-feed
